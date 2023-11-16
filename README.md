@@ -1,4 +1,4 @@
-# flios
+# flutter-navigate-to-ios-view-controller
 
 This project shows how you can navigate from flutter to iOS View Controller
 and then back to Flutter application.
